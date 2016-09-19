@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"D:\Temp\MyNG2Test\src\MyNG2Test\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"D:\Temp\MyNG2Test\src\MyNG2Test\bin\Debug\netcoreapp1.0\MyNG2Test.dll"
+"D:\GitRepo\AspCoreAngular2Seed\MyNG2Test\src\MyNG2Test\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"D:\GitRepo\AspCoreAngular2Seed\MyNG2Test\src\MyNG2Test\bin\Debug\netcoreapp1.0\MyNG2Test.dll"
 -r:"C:\Users\user\.nuget\packages\Microsoft.AspNetCore.Diagnostics\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Diagnostics.dll"
 -r:"C:\Users\user\.nuget\packages\Microsoft.AspNetCore.Diagnostics.Abstractions\1.0.0\lib\netstandard1.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll"
 -r:"C:\Users\user\.nuget\packages\Microsoft.AspNetCore.Hosting\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Hosting.dll"
@@ -119,6 +119,6 @@
 -r:"C:\Users\user\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\user\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\user\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
--resource:"D:\Temp\MyNG2Test\src\MyNG2Test\obj\Debug\netcoreapp1.0\MyNG2Testdotnet-compile.deps.json",MyNG2Test.deps.json
-"D:\Temp\MyNG2Test\src\MyNG2Test\Program.cs"
-"D:\Temp\MyNG2Test\src\MyNG2Test\Startup.cs"
+-resource:"D:\GitRepo\AspCoreAngular2Seed\MyNG2Test\src\MyNG2Test\obj\Debug\netcoreapp1.0\MyNG2Testdotnet-compile.deps.json",MyNG2Test.deps.json
+"D:\GitRepo\AspCoreAngular2Seed\MyNG2Test\src\MyNG2Test\Program.cs"
+"D:\GitRepo\AspCoreAngular2Seed\MyNG2Test\src\MyNG2Test\Startup.cs"

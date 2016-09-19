@@ -1,5 +1,5 @@
---temp-output:D:\Temp\MyNG2Test\src\MyNG2Test\obj\Debug\netcoreapp1.0\
---out:D:\Temp\MyNG2Test\src\MyNG2Test\bin\Debug\netcoreapp1.0\MyNG2Test.dll
+--temp-output:D:\GitRepo\AspCoreAngular2Seed\MyNG2Test\src\MyNG2Test\obj\Debug\netcoreapp1.0\
+--out:D:\GitRepo\AspCoreAngular2Seed\MyNG2Test\src\MyNG2Test\bin\Debug\netcoreapp1.0\MyNG2Test.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -123,6 +123,6 @@
 --reference:C:\Users\user\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\user\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\user\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"D:\Temp\MyNG2Test\src\MyNG2Test\obj\Debug\netcoreapp1.0\MyNG2Testdotnet-compile.deps.json",MyNG2Test.deps.json
-D:\Temp\MyNG2Test\src\MyNG2Test\Program.cs
-D:\Temp\MyNG2Test\src\MyNG2Test\Startup.cs
+--resource:"D:\GitRepo\AspCoreAngular2Seed\MyNG2Test\src\MyNG2Test\obj\Debug\netcoreapp1.0\MyNG2Testdotnet-compile.deps.json",MyNG2Test.deps.json
+D:\GitRepo\AspCoreAngular2Seed\MyNG2Test\src\MyNG2Test\Program.cs
+D:\GitRepo\AspCoreAngular2Seed\MyNG2Test\src\MyNG2Test\Startup.cs
