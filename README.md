@@ -1,0 +1,1 @@
+# AspCoreAngular2Seed
