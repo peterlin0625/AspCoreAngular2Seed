@@ -27,4 +27,6 @@ rm -rf .git
 - 在 Tasks 下，在 copy:nodeModules 上按右鍵，執行
 - 完成後，在 tsc 上按右鍵，執行
 - 最後在方案總管中，在 wwwroot 目錄中的 index.html 上按右鍵 View in Browser 就可以看到結果了。
+- ![Image of Demo](https://github.com/rainmakerho/AspCoreAngular2Seed/blob/NGHero3/result.png?raw=true)
+
 
