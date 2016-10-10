@@ -5,8 +5,8 @@ var gulp = require('gulp'),
 
 var paths = {
     ts: {
-        src: ['./scripts/app/*.ts'],
-        dest: './wwwroot/app',
+        src: ['./scripts/app/**/*.ts'],
+        dest: './wwwroot/app/',
         config: './scripts/tsConfig.json'
     },
     npmAllFiles: ['node_modules/**/*/', '!node_modules/gulp*/**/*/'],
