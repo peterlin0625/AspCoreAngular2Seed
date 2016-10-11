@@ -1,6 +1,7 @@
 # AspCoreAngular2Seed - NGHero 4[用户输入]
 
-## ASP.NET Core With Angular 2 Seed Project 
+## 使用Visual Studio 2015來開發ASP.NET Core Angular 2 專案
+### 實作 [Angular 2 官網 4.用户输入](https://angular.cn/docs/ts/latest/guide/user-input.html) 的範例
 
 ### Usage
 - using Visual Studio 2015 open MyNG2Test.sln
@@ -24,3 +25,5 @@
 - 使用綁定使用 (event) 例如 (click) (keyup) (keyup.enter) ...
 - 可傳入 $event ，然後由 $event.target 取得一個 HTMLInputElement 物件
 - 可以使用 # template reference variables 來代替使用 $event.target。例如 <input #box (keyup)="0" ><p>{{box.value}}</p>
+- [模版語句(template statement)](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#template-statements)中，不能用 +=, -= ... 
+- pass value ,not elements
