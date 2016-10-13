@@ -38,6 +38,8 @@
 - ![Image of Save package.json](https://github.com/rainmakerho/AspCoreAngular2Seed/blob/NGHero5/npmInstall.png?raw=true)
 - 最後在方案總管中，在 wwwroot 目錄中的 index.html 上按右鍵 View in Browser 就可以看到結果了。結果如下，
 - ![Image of Result](https://github.com/rainmakerho/AspCoreAngular2Seed/blob/NGHero5/result.png?raw=true)
+- 如果要調整 ts 檔的話，在 wwwroot 目錄下，開啟 Command ，然後輸入 npm run tsc:w ，這樣檔案有調整，就會立馬 compile 了。
+
 
 
 
