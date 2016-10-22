@@ -29,7 +29,7 @@
 - rm -rf .git
 
 ### 刪除長檔案，可透過 7-Zip
-- 使用 7-Zip 開啟要刪除的目錄，然後按下 Ctrl + Delete 鍵就可以立馬刪除它 
+- 使用 7-Zip 開啟要刪除的目錄，然後按下 Shift + Delete 鍵就可以立馬刪除它 
 
 ### 使用說明
 - 發現使用Angular2後，再透過 Gulp Copy 到 wwwroot 蠻麻煩的，所以讓 Client 端的都到 wwwroot 之中。
