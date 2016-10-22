@@ -12,7 +12,7 @@
 - rm -rf .git
 
 ### 刪除長檔案，可透過 7-Zip
-- 使用 7-Zip 開啟要刪除的目錄，然後按下 Ctrl + Delete 鍵就可以立馬刪除它 
+- 使用 7-Zip 開啟要刪除的目錄，然後按下 Shift + Delete 鍵就可以立馬刪除它 
 
 ### 使用說明
 - 開啟專案後，會自動node套件(會花一些時間)，等完成後。請開啟 Task Runner Explorer 視窗
